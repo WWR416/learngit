@@ -1,0 +1,5 @@
+# Default github user self
+Host github.com
+	port 443 # 默认是22端口
+	HostName ssh.github.com
+	IdentityFile ~/.ssh/id_rsa
